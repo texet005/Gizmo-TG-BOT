@@ -1,0 +1,7 @@
+aiogram
+httpx
+python-dotenv
+asyncio
+os
+httpx
+jwt
