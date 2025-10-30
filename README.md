@@ -18,7 +18,7 @@ Telegram бот для компьютерного клуба на базе Gizmo
 ### 1. Клонирование репозитория
 ```bash
 git clone https://github.com/texet005/Gizmo-TG-BOT.git
-cd vavilon-pro-bot
+cd gizmo-tg-bot
 ```
 
 ### 2. Установка зависимостей
